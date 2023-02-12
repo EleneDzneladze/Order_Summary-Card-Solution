@@ -24,7 +24,8 @@ It is my first attempt to use a responsive design and build the site with a Mobi
 
 ### Screenshots
 
-![2023-02-12](https://user-images.githubusercontent.com/114775257/218307362-763db03d-4ef1-4017-8781-683414da3c64.png)
-![IMG_20230212_151301](https://user-images.githubusercontent.com/114775257/218307612-3aa845df-d89d-46df-9454-02c39751fbf5.jpg)
+![2023-02-12 (2)](https://user-images.githubusercontent.com/114775257/218312076-923e1e2a-f016-4f83-87c2-fc0248b7e7c2.png)
+![330619835_3296074693991349_7958761497483672912_n](https://user-images.githubusercontent.com/114775257/218312101-f74faed9-f40b-44c6-a043-6dc47e58b6a5.jpg)
+
 
 
